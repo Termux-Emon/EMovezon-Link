@@ -1,5 +1,8 @@
 {
   "title": "Ace Hindi Movie",
   "poster": "https://i.ibb.co/rCk01kh/Ace-696x1045.jpg",
-  "download": "https://filecloud.lol/f/your-ace-download-link"
-}
+  "download": {
+  "720": "https://filecloud.lol/f/your-ace-download-link",
+  "1080":"https://filecloud.lol/f/your-ace-download-link"
+  }
+  }
