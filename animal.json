@@ -1,5 +1,8 @@
 {
-  "title": "animal Hindi Movie",
-  "poster": "https://i.ibb.co/5Rv3hBs/ace-movie.jpg",
-  "download": "https://filecloud.lol/f/your-ace-download-link"
+  "title": "Animal (2024)",
+  "poster": "https://i.ibb.co/example/animal.jpg",
+  "download": [
+    "https://filecloud.lol/f/animal480",
+    "https://filecloud.lol/f/animal720"
+  ]
 }
