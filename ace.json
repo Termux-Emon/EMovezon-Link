@@ -1,8 +1,11 @@
 {
   "title": "Ace Hindi Movie",
   "poster": "https://i.ibb.co/rCk01kh/Ace-696x1045.jpg",
+  "genre": "Action",
+  "language": "Hindi",
+  "trailer": "https://www.youtube.com/watch?v=EXAMPLE123",
   "download": {
-  "720": "https://filecloud.lol/f/your-ace-download-link",
-  "1080":"https://filecloud.lol/f/your-ace-download-link"
+    "720": "https://filecloud.lol/f/your-ace-download-link",
+    "1080": "https://filecloud.lol/f/your-ace-download-link"
   }
-  }
+}
