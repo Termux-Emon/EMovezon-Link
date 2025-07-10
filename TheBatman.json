@@ -1,0 +1,12 @@
+[
+  {
+    "name": "The Batman (2022)",
+    "thumbnail": "https://i.imgur.com/thebatman.jpg",
+    "qualities": [
+      {"quality": "480p", "url": "https://link.com/480"},
+      {"quality": "720p", "url": "https://link.com/720"},
+      {"quality": "1080p", "url": "https://link.com/1080"}
+    ],
+    "languages": ["English", "Bangla", "Hindi"]
+  }
+]
